@@ -1,8 +1,8 @@
-.database.ini
-.important.txt
-.sql_commands.sql
-.test.py
-.test.txt
+database.ini
+important.txt
+sql_commands.sql
+test.py
+test.txt
 /alice_blue-venv
 /__pycache__
 /.streamlit
