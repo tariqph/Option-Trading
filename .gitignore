@@ -8,3 +8,4 @@ test.txt
 /.streamlit
 /.vscode
 .data1.csv
+/src/strategy
